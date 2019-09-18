@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projeto poliglota doidão</string>
+    <string name="boa_noite">buenas noches</string>
+    <string name="boas_vindas">Bien Venido</string>
+    <string name="bom_dia">Buenos Dias</string>
+    <string name="frase">"Tu nombre es %1$s. Tienes%2$d años e %3$.2f de altura     "</string>
+
+    <color name="padrao_fonte">#00C90B</color>
+
+    <drawable name="bandeira">@mipmap/espanha</drawable>
+
+</resources>

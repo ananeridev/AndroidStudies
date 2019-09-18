@@ -1,0 +1,28 @@
+<!--Neste arquivo devem estar os textos da aplicação -->
+<resources>
+    <!--
+        Na tag <string>, o nome é a chave
+        e o corpo é o valor
+     -->
+    <string name="app_name">Projeto poliglota doidão</string>
+    <string name="bom_dia">Bom dia pra você</string>
+
+    <string name="boa_noite">Tenha uma boa noite</string>
+
+    <!-- String com partes dinâmicas para interpolação -->
+    <string name="frase">"         Se nome é %1$s. Tens %2$d anos e %3$.2f de altura     "</string>
+    <string name="boas_vindas">Seja bem vindo(a)</string>
+    <string name="bom_dia">Bom dia</string>
+
+    <!-- 1  = ordem
+         $ = tipo, $s texto, $d inteiro, $.?f numero real c/ ponto flutuante,
+         no lugar do "?" são as casas decimais
+     -->
+
+    <!-- Color, ou seja uma cor pré definida-->
+    <color name="padrao_fonte">#E91E63</color>
+
+    <!-- drawble, ou seja, uma figura pré definida-->
+    <drawable name="bandeira">@mipmap/brasil</drawable>
+
+</resources>
