@@ -1,7 +1,8 @@
 # AndroidStudies :alien:
-Repositório voltado com meus estudos sobre Android
+# KotlinStudies
+An repository with my classes about Android  :stuck_out_tongue_winking_eye:
 
-  Basicamente estou querendo compartilhar o que ando estudando nas aulas de Android e os projetos que estou desenvolvendo
+**Estou cursando o último semestre na Faculdade Bandtec**
+- Neste semestre estou apredendo construção de apps de Android, como acredito ser interessante de muitos vou deixar as aulas salvas aqui, pra caso alguém esteja estudando também.
 
-#### Beleza, mas o que tem em cada Branch?
- - Projetos desenvolvidos em sala, até o **projeto04** foi desenvolvido com o professor a partir daí são exercicios propostos de apps. 
+- Cada repositório vai ser referente a uma aula :blush:
